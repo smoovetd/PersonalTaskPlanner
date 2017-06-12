@@ -1,0 +1,32 @@
+				Personal Task Planner
+				  by Boyan Blagiev
+
+1. Idea - write personal task planner. User could keep track of its tasks. Can sort then by status, category, due date and creation date. 
+Program will store items in a file with possible update for multy-user usage with DB to store application info.
+GUI will be console with commands, that will be handled by command dispatcher. After that ill be updated with Form and web site.
+
+2. Solution - I think that it is good beginning to create this application to be as Getting Things Done (GDT) system. I found very interesting the following link:
+http://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955 . The app will contain the following:
+
+Common characteristics of all Items:
+		* Start Date
+		* Summary 
+		* Description
+		* Type
+			> Goal
+        		> List
+        		> Task (def)
+			> Project
+                        > Habit
+			> Idea
+         	* Status
+		
+
+
+
+
+Priority:	
+		* IMMEDIATE - cease other work and start working on this
+		* HIGH
+		* MEDIUM
+		* LOW	

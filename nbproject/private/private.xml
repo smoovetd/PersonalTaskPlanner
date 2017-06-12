@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/app/items/Item.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/io/output/ConsoleWriterImpl.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/app/statuses/Status.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/app/items/ItemUtilities.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/app/items/ItemType.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/io/input/ConsoleReaderImpl.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/exceptions/InvalidItemSettingException.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/exceptions/InvalidOutputException.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/PersonalTaskPlanner.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/io/output/Writer.java</file>
+            <file>file:/home/blagiev/NetBeansProjects/PersonalTaskPlanner/src/personaltaskplanner/app/items/ItemPriority.java</file>
+        </group>
+    </open-files>
+</project-private>
